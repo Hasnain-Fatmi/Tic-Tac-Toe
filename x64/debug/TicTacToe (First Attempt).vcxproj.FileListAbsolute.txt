@@ -1,0 +1,8 @@
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToe (First Attempt).vcxproj.SuggestedBindingRedirects.cache
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToeFirstAttempt.Auto.resources
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToeFirstAttempt.Loading.resources
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToeFirstAttempt.Manual.resources
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToeFirstAttempt.MyForm3.resources
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToe (First Attempt).vcxproj.GenerateResource.cache
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToe.exe
+D:\SEMESTER_PROJECT\TicTacToe (21L-1773 & 21L-5266)\TicTacToe (21L-1773 & 21L-5266)\x64\Debug\TicTacToe (First Attempt).vcxproj.AssemblyReference.cache
